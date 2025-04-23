@@ -1,0 +1,1 @@
+9999999999{"name": "alibabacloud-tea-xml", "version": "0.0.2", "summary": "The tea-xml module of alibabaCloud Python SDK.", "requires_dist": ["alibabacloud-tea>=0.0.1"], "requires_python": null, "files": [{"file": "alibabacloud_tea_xml-0.0.2.tar.gz", "hash": "sha256:f0135e8148fd7d9c1f029db161863f37f144f837c280cba16c2edeb2f9c549d8"}], "yanked": false, "_cache_version": "2.0.0"}

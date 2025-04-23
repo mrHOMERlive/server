@@ -1,0 +1,1 @@
+9999999999{"name": "alibabacloud-oss-util", "version": "0.0.6", "summary": "The oss util module of alibabaCloud Python SDK.", "requires_dist": ["alibabacloud-tea"], "requires_python": null, "files": [{"file": "alibabacloud_oss_util-0.0.6.tar.gz", "hash": "sha256:d3ecec36632434bd509a113e8cf327dc23e830ac8d9dd6949926f4e334c8b5d6"}], "yanked": false, "_cache_version": "2.0.0"}

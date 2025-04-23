@@ -1,0 +1,1 @@
+9999999999{"name": "odfpy", "version": "1.4.1", "summary": "Python API and tools to manipulate OpenDocument files", "requires_dist": ["defusedxml"], "requires_python": null, "files": [{"file": "odfpy-1.4.1.tar.gz", "hash": "sha256:db766a6e59c5103212f3cc92ec8dd50a0f3a02790233ed0b52148b70d3c438ec"}], "yanked": false, "_cache_version": "2.0.0"}

@@ -1,0 +1,1 @@
+9999999999{"name": "esdk-obs-python", "version": "3.24.6.1", "summary": "OBS Python SDK", "requires_dist": ["pycryptodome>=3.10.1"], "requires_python": null, "files": [{"file": "esdk-obs-python-3.24.6.1.tar.gz", "hash": "sha256:c45fed143e99d9256c8560c1d78f651eae0d2e809d16e962f8b286b773c33bf0"}], "yanked": false, "_cache_version": "2.0.0"}

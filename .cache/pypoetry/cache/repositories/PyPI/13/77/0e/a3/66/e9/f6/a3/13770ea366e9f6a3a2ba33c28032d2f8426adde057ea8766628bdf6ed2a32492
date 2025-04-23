@@ -1,0 +1,1 @@
+9999999999{"name": "pandoc", "version": "2.4", "summary": "Pandoc Documents for Python", "requires_dist": ["plumbum", "ply"], "requires_python": null, "files": [{"file": "pandoc-2.4.tar.gz", "hash": "sha256:ecd1f8cbb7f4180c6b5db4a17a7c1a74df519995f5f186ef81ce72a9cbd0dd9a"}], "yanked": false, "_cache_version": "2.0.0"}

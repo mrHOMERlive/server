@@ -1,0 +1,1 @@
+9999999999{"name": "psycogreen", "version": "1.0.2", "summary": "psycopg2 integration with coroutine libraries", "requires_dist": null, "requires_python": null, "files": [{"file": "psycogreen-1.0.2.tar.gz", "hash": "sha256:c429845a8a49cf2f76b71265008760bcd7c7c77d80b806db4dc81116dbcd130d"}], "yanked": false, "_cache_version": "2.0.0"}

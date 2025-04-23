@@ -1,0 +1,1 @@
+9999999999{"name": "cos-python-sdk-v5", "version": "1.9.30", "summary": "cos-python-sdk-v5", "requires_dist": ["requests>=2.8", "xmltodict", "six", "crcmod", "pycryptodome"], "requires_python": null, "files": [{"file": "cos-python-sdk-v5-1.9.30.tar.gz", "hash": "sha256:a23fd090211bf90883066d90cd74317860aa67c6d3aa80fe5e44b18c7e9b2a81"}], "yanked": false, "_cache_version": "2.0.0"}
