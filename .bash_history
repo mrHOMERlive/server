@@ -1813,3 +1813,50 @@ du -h /
 
 du --max-depth=1 -h
 sudo su
+git push
+git pull
+git remote -v
+git remote set-url origin git@github.com:mrHOMERlive/server.git
+git pull
+git remote set-url origin git@github.com:mrHOMERlive/server.git
+git remote -v
+git pull
+git remote add origin https://mrHOMERlive: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@github.com/mrHOMERlive/server.git
+git remote remove origin
+git remote add origin https://mrHOMERlive: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@github.com/mrHOMERlive/server.git
+git pull
+git remote -v
+git remote remove origin
+git remote -v
+git remote set-url origin git@github.com:mrHOMERlive/server.git
+git remote -v
+git -v
+git -h
+git push
+git remote set-url origin git@github.com:mrHOMERlive/server.git
+git remote add set-url origin git@github.com:mrHOMERlive/server.git
+git remote add origin git@github.com:mrHOMERlive/server.git
+git push
+git remote add set-url origin git@github.com:mrHOMERlive/server.git
+git remote set-url origin git@github.com:mrHOMERlive/server.git
+git push
+git config --global credential.helper store
+git push
+git remote add server https://github.com/mrHOMERlive/server
+git push
+sudo su
+git pull
+git pull main
+git pull
+git -h
+git add /home/etl-special
+git pull
+git pull main
+git add .
+git remote -v
+git remote add origin https://github.com/mrHOMERlive/server
+git push
+git pull
+git push origin main
+use 'git reset HEAD YOUR-FILE'.
+$ git commit -m "Add existing file"
